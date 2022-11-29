@@ -12,6 +12,8 @@
 <script>
 import AppHeader from './components/Header.vue';
 import AppButton from './components/Button.vue';
+import PerkData from './assets/perk-data.json';
+import getRandomIndex from './common/functions.js';
 document.title = 'DBD Randomizer';
 
 export default {
@@ -22,12 +24,37 @@ export default {
   },
   methods: {
     randomizePerks() {
-      console.log('randomize');
+      const perkArray = this.selectedPerkTarget === 'survivor'
+        ? this.allSurvivorPerks
+        : this.allKillerPerks;
+      this.chooseRandomPerks(perkArray)
+    },
+    chooseRandomPerks(perkArray) {
+      const indexes = [];
+      while (indexes.length < 4) {
+        const index = getRandomIndex(0, perkArray.length - 1);
+        if (indexes.includes(index)) {
+          continue;
+        }
+        indexes.push(index);
+      }
+      this.randomizedPerks = indexes.map(i => perkArray[i]);
     },
     selectPerkTarget(perkTarget) {
       this.selectedPerkTarget = perkTarget;
     },
+  },
+  data: function() {
+    return {
+      allKillerPerks: [],
+      allSurvivorPerks: [],
+      randomizedPerks: [],
       selectedPerkTarget: 'survivor',
+    }
+  },
+  beforeMount() {
+    this.allKillerPerks = PerkData.filter(perk => perk.target === "killer");
+    this.allSurvivorPerks = PerkData.filter(perk => perk.target === "survivor");
   }
 }
 </script>

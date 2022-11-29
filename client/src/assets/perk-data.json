@@ -1,0 +1,43 @@
+[
+    {
+        "target": "survivor",
+        "name": "Ace in the Hole",
+        "imageName": "AceInTheHole"
+    },
+    {
+        "target": "survivor",
+        "name": "Adrenaline",
+        "imageName": "Adrenaline"
+    },
+    {
+        "target": "survivor",
+        "name": "Aftercare",
+        "imageName": "Aftercare"
+    },
+    {
+        "target": "survivor",
+        "name": "Alert",
+        "imageName": "Alert"
+    },
+
+    {
+        "target": "killer",
+        "name": "Agitation",
+        "imageName": "Agitation"
+    },
+    {
+        "target": "killer",
+        "name": "Bamboozle",
+        "imageName": "Bamboozle"
+    },
+    {
+        "target": "killer",
+        "name": "BarbecueAndChili",
+        "imageName": "BarbecueAndChili"
+    },
+    {
+        "target": "killer",
+        "name": "BeastOfPrey",
+        "imageName": "BeastOfPrey"
+    }
+]
