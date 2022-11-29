@@ -5,8 +5,8 @@
       <h2>DEAD BY DAYLIGHT RANDOMIZER</h2>
     </div>
     <div class="actions">
-      <button>Survivor</button>
-      <button>Killer</button>
+      <button @click="selectPerkTarget('survivor')">Survivor</button>
+      <button @click="selectPerkTarget('killer')">Killer</button>
     </div>
   </div>
 </template>
@@ -14,10 +14,14 @@
 <script>
 export default {
   name: 'AppHeader',
+  methods: {
+    selectPerkTarget(perkTarget) {
+      this.$emit('onPerkTargetSelected', perkTarget);
+    },
+  },
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
   .header-container {
     height: 100px;
