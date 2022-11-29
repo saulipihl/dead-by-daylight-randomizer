@@ -5,8 +5,8 @@
       <h2>DEAD BY DAYLIGHT RANDOMIZER</h2>
     </div>
     <div class="actions">
-      <button @click="selectPerkTarget('survivor')">Survivor</button>
-      <button @click="selectPerkTarget('killer')">Killer</button>
+      <button :class="{ selected: selectedPerkTarget === 'survivor' }" @click="selectPerkTarget('survivor')">Survivor</button>
+      <button :class="{ selected: selectedPerkTarget === 'killer' }" @click="selectPerkTarget('killer')">Killer</button>
     </div>
   </div>
 </template>
@@ -19,6 +19,9 @@ export default {
       this.$emit('onPerkTargetSelected', perkTarget);
     },
   },
+  props: {
+    selectedPerkTarget: String,
+  }
 }
 </script>
 
@@ -50,7 +53,7 @@ export default {
     flex-direction: row;
     text-align: center;
     justify-items: center;
-    gap: 2rem;
+    gap: 4rem;
   }
 
   .actions button {
@@ -58,10 +61,14 @@ export default {
     background: none;
     font-size: 1rem;
     cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .actions button.selected {
+    border-bottom: 3px solid red;
   }
 
   .actions button:hover {
     color: red;
-    transition: color 0.2s;
   }
 </style>

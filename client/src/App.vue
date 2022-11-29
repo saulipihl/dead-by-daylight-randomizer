@@ -1,7 +1,7 @@
 <template>
   <div class>
     <header>
-      <AppHeader @onPerkTargetSelected="selectPerkTarget"/>
+      <AppHeader @onPerkTargetSelected="selectPerkTarget" :selectedPerkTarget="selectedPerkTarget"/>
     </header>
     <main>
       <AppButton @onClick="randomizePerks" buttonText="RANDOMIZE"></AppButton>
@@ -25,8 +25,9 @@ export default {
       console.log('randomize');
     },
     selectPerkTarget(perkTarget) {
-      console.log(perkTarget);
+      this.selectedPerkTarget = perkTarget;
     },
+      selectedPerkTarget: 'survivor',
   }
 }
 </script>
