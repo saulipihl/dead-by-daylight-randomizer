@@ -1,11 +1,12 @@
 <template>
     <div class="perks-container">
-        <AppPerk v-for="(perk, index) in perks" :key="getPerkKey(perk)" :class="[`perk-${index}`]" :perk="perk"></AppPerk>
+        <AppPerk v-for="(perk, index) in perks" :key="getKey(perk)" :class="[`perk-${index}`]" :perk="perk"></AppPerk>
     </div>
 </template>
 
 <script>
     import AppPerk from './Perk.vue';
+    import { getPerkKey } from '../common/functions';
     export default {
         name: 'AppPerks',
         props: {
@@ -15,8 +16,8 @@
             AppPerk,
         },
         methods: {
-            getPerkKey(perk) {
-                return `${perk.target}-${perk.name}-${perk.imageName}`;
+            getKey(perk) {
+                return getPerkKey('PerkComponent', perk);
             }
         },
     }

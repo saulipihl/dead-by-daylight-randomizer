@@ -1,5 +1,5 @@
 <template>
-    <button @click="onClick">{{ buttonText }}</button>
+    <button :class="buttonSize" @click="onClick">{{ buttonText }}</button>
 </template>
 
 <script>
@@ -7,6 +7,7 @@
         name: 'AppButton',
         props: {
             buttonText: String,
+            buttonSize: String,
         },
         methods: {
             onClick() {
@@ -23,6 +24,7 @@
         padding: 30px 100px;
         font-size: 1.3rem;
         cursor: pointer;
+        width: fit-content;
     }
     button:before {
         content: "";
@@ -42,5 +44,14 @@
 
     button:active {
         color: gray;
+    }
+
+    .small {
+        font-size: 0.7rem;
+        padding: 20px 50px;
+    }
+    .tiny {
+        font-size: 0.7rem;
+        padding: 10px 40px;
     }
 </style>
