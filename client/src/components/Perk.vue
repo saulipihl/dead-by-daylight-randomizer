@@ -14,7 +14,7 @@
         },
         methods: {
             image() {
-                return require(`../assets/images/${this.perk.target}-perks/${this.perk.imageName}.webp`);
+                return require(`../assets/images/${this.perk.target}-perks/${this.perk.imageName}.png`);
             },
         }
     }
