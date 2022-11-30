@@ -5,6 +5,7 @@
     </header>
     <main>
       <AppButton @onClick="randomizePerks" buttonText="RANDOMIZE"></AppButton>
+      <AppPerks :perks="randomizedPerks"></AppPerks>
     </main>
   </div>
 </template>
@@ -12,6 +13,7 @@
 <script>
 import AppHeader from './components/Header.vue';
 import AppButton from './components/Button.vue';
+import AppPerks from './components/Perks.vue';
 import PerkData from './assets/perk-data.json';
 import getRandomIndex from './common/functions.js';
 document.title = 'DBD Randomizer';
@@ -21,6 +23,7 @@ export default {
   components: {
     AppHeader,
     AppButton,
+    AppPerks,
   },
   methods: {
     randomizePerks() {
@@ -78,5 +81,6 @@ export default {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 8rem;
   }
 </style>
