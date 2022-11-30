@@ -7,16 +7,39 @@
     <div class="actions">
       <button :class="{ selected: selectedPerkTarget === 'survivor' }" @click="selectPerkTarget('survivor')">Survivor</button>
       <button :class="{ selected: selectedPerkTarget === 'killer' }" @click="selectPerkTarget('killer')">Killer</button>
+      <button @click="showAboutDialog()">
+        <img id="about-logo" src="@/assets/images/about-icon.svg"/>
+      </button>
     </div>
+    <AppDialog :visible="aboutDialogOpen" @closeDialog="closeDialog()">
+      <AppAbout></AppAbout>
+    </AppDialog>
   </div>
 </template>
 
 <script>
+import AppDialog from './Dialog.vue';
+import AppAbout from './About.vue';
 export default {
   name: 'AppHeader',
+  components: {
+    AppAbout,
+    AppDialog,
+  },
+  data: function() {
+    return {
+      aboutDialogOpen: false,
+    }
+  },
   methods: {
     selectPerkTarget(perkTarget) {
       this.$emit('onPerkTargetSelected', perkTarget);
+    },
+    showAboutDialog() {
+      this.aboutDialogOpen = true;
+    },
+    closeDialog() {
+      this.aboutDialogOpen = false;
     },
   },
   props: {
@@ -68,7 +91,17 @@ export default {
     border-bottom: 3px solid red;
   }
 
+  #about-logo {
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 25px;
+    transition: all 0.2s;
+  }
+  
   .actions button:hover {
     color: red;
+  }
+  .actions #about-logo:hover {
+    border-color: red;
   }
 </style>
