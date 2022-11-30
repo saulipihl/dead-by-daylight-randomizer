@@ -45,6 +45,7 @@ export default {
     },
     selectPerkTarget(perkTarget) {
       this.selectedPerkTarget = perkTarget;
+      this.randomizedPerks = [];
     },
   },
   data: function() {

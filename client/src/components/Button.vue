@@ -39,4 +39,8 @@
     button:hover:before {
         border: 1px solid rgba(255, 0, 0, 0.7);
     }
+
+    button:active {
+        color: gray;
+    }
 </style>
