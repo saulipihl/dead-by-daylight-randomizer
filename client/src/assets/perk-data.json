@@ -19,6 +19,566 @@
         "name": "Alert",
         "imageName": "Alert"
     },
+    {
+        "target": "survivor",
+        "name": "Any Means Necessary",
+        "imageName": "AnyMeansNecessary"
+    },
+    {
+        "target": "survivor",
+        "name": "Appraisal",
+        "imageName": "Appraisal"
+    },
+    {
+        "target": "survivor",
+        "name": "Autodidact",
+        "imageName": "Autodidact"
+    },
+    {
+        "target": "survivor",
+        "name": "Balanced Landing",
+        "imageName": "BalancedLanding"
+    },
+    {
+        "target": "survivor",
+        "name": "Better Than New",
+        "imageName": "BetterThanNew"
+    },
+    {
+        "target": "survivor",
+        "name": "Blast Mine",
+        "imageName": "BlastMine"
+    },
+    {
+        "target": "survivor",
+        "name": "Blood Pact",
+        "imageName": "BloodPact"
+    },
+    {
+        "target": "survivor",
+        "name": "Bite The Bullet",
+        "imageName": "BiteTheBullet"
+    },
+    {
+        "target": "survivor",
+        "name": "Boil Over",
+        "imageName": "BoilOver"
+    },
+    {
+        "target": "survivor",
+        "name": "Bond",
+        "imageName": "Bond"
+    },
+    {
+        "target": "survivor",
+        "name": "Boon: Circle of Healing",
+        "imageName": "BoonCircleOfHealing"
+    },
+    {
+        "target": "survivor",
+        "name": "Boon: Dark Theory",
+        "imageName": "BoonDarkTheory"
+    },
+    {
+        "target": "survivor",
+        "name": "Boon: Exponential",
+        "imageName": "BoonExponential"
+    },
+    {
+        "target": "survivor",
+        "name": "Boon: Shadow Step",
+        "imageName": "BoonShadowStep"
+    },
+    {
+        "target": "survivor",
+        "name": "Borrowed Time",
+        "imageName": "BorrowedTime"
+    },
+    {
+        "target": "survivor",
+        "name": "Botany Knowledge",
+        "imageName": "BotanyKnowledge"
+    },
+    {
+        "target": "survivor",
+        "name": "Breakdown",
+        "imageName": "Breakdown"
+    },
+    {
+        "target": "survivor",
+        "name": "Breakout",
+        "imageName": "Breakout"
+    },
+    {
+        "target": "survivor",
+        "name": "Buckle Up",
+        "imageName": "BuckleUp"
+    },
+    {
+        "target": "survivor",
+        "name": "Built To Last",
+        "imageName": "BuiltToLast"
+    },
+    {
+        "target": "survivor",
+        "name": "Calm Spirit",
+        "imageName": "CalmSpirit"
+    },
+    {
+        "target": "survivor",
+        "name": "Clairvoyance",
+        "imageName": "Clairvoyance"
+    },
+    {
+        "target": "survivor",
+        "name": "Corrective Action",
+        "imageName": "CorrectiveAction"
+    },
+    {
+        "target": "survivor",
+        "name": "Counterforce",
+        "imageName": "Counterforce"
+    },
+    {
+        "target": "survivor",
+        "name": "Dance With Me",
+        "imageName": "DanceWithMe"
+    },
+    {
+        "target": "survivor",
+        "name": "Dark Sense",
+        "imageName": "DarkSense"
+    },
+    {
+        "target": "survivor",
+        "name": "Dead Hard",
+        "imageName": "DeadHard"
+    },
+    {
+        "target": "survivor",
+        "name": "Deception",
+        "imageName": "Deception"
+    },
+    {
+        "target": "survivor",
+        "name": "Decisive Strike",
+        "imageName": "DecisiveStrike"
+    },
+    {
+        "target": "survivor",
+        "name": "Déjà Vu",
+        "imageName": "DejaVu"
+    },
+    {
+        "target": "survivor",
+        "name": "Deliverance",
+        "imageName": "Deliverance"
+    },
+    {
+        "target": "survivor",
+        "name": "Desperate Measures",
+        "imageName": "DesperateMeasures"
+    },
+    {
+        "target": "survivor",
+        "name": "Detective's Hunch",
+        "imageName": "DetectivesHunch"
+    },
+    {
+        "target": "survivor",
+        "name": "Distortion",
+        "imageName": "Distortion"
+    },
+    {
+        "target": "survivor",
+        "name": "Diversion",
+        "imageName": "Diversion"
+    },
+    {
+        "target": "survivor",
+        "name": "Empathic Connection",
+        "imageName": "EmpathicConnection"
+    },
+    {
+        "target": "survivor",
+        "name": "Empathy",
+        "imageName": "Empathy"
+    },
+    {
+        "target": "survivor",
+        "name": "Fast Track",
+        "imageName": "FastTrack"
+    },
+    {
+        "target": "survivor",
+        "name": "Flashbang",
+        "imageName": "Flashbang"
+    },
+    {
+        "target": "survivor",
+        "name": "Flip-Flop",
+        "imageName": "FlipFlop"
+    },
+    {
+        "target": "survivor",
+        "name": "Fogwise",
+        "imageName": "Fogwise"
+    },
+    {
+        "target": "survivor",
+        "name": "For The People",
+        "imageName": "ForThePeople"
+    },
+    {
+        "target": "survivor",
+        "name": "Guardian",
+        "imageName": "Guardian"
+    },
+    {
+        "target": "survivor",
+        "name": "Head On",
+        "imageName": "HeadOn"
+    },
+    {
+        "target": "survivor",
+        "name": "Hope",
+        "imageName": "Hope"
+    },
+    {
+        "target": "survivor",
+        "name": "Hyperfocus",
+        "imageName": "Hyperfocus"
+    },
+    {
+        "target": "survivor",
+        "name": "Inner Focus",
+        "imageName": "InnerFocus"
+    },
+    {
+        "target": "survivor",
+        "name": "Inner Healing",
+        "imageName": "InnerHealing"
+    },
+    {
+        "target": "survivor",
+        "name": "Iron Will",
+        "imageName": "IronWill"
+    },
+    {
+        "target": "survivor",
+        "name": "Kindred",
+        "imageName": "Kindred"
+    },
+    {
+        "target": "survivor",
+        "name": "Kinship",
+        "imageName": "Kinship"
+    },
+    {
+        "target": "survivor",
+        "name": "Leader",
+        "imageName": "Leader"
+    },
+    {
+        "target": "survivor",
+        "name": "Left Behind",
+        "imageName": "LeftBehind"
+    },
+    {
+        "target": "survivor",
+        "name": "Lightweight",
+        "imageName": "Lightweight"
+    },
+    {
+        "target": "survivor",
+        "name": "Lithe",
+        "imageName": "Lithe"
+    },
+    {
+        "target": "survivor",
+        "name": "Low Profile",
+        "imageName": "LowProfile"
+    },
+    {
+        "target": "survivor",
+        "name": "Lucky Break",
+        "imageName": "LuckyBreak"
+    },
+    {
+        "target": "survivor",
+        "name": "Mettle of Man",
+        "imageName": "MettleOfMan"
+    },
+    {
+        "target": "survivor",
+        "name": "No Mither",
+        "imageName": "NoMither"
+    },
+    {
+        "target": "survivor",
+        "name": "No One Left Behind",
+        "imageName": "NoOneLeftBehind"
+    },
+    {
+        "target": "survivor",
+        "name": "Object of Obsession",
+        "imageName": "ObjectOfObsession"
+    },
+    {
+        "target": "survivor",
+        "name": "Off The Record",
+        "imageName": "OffTheRecord"
+    },
+    {
+        "target": "survivor",
+        "name": "Open-Handed",
+        "imageName": "Open-Handed"
+    },
+    {
+        "target": "survivor",
+        "name": "Overcome",
+        "imageName": "Overcome"
+    },
+    {
+        "target": "survivor",
+        "name": "Overzealous",
+        "imageName": "Overzealous"
+    },
+    {
+        "target": "survivor",
+        "name": "Parental Guidance",
+        "imageName": "ParentalGuidance"
+    },
+    {
+        "target": "survivor",
+        "name": "Pharmacy",
+        "imageName": "Pharmacy"
+    },
+    {
+        "target": "survivor",
+        "name": "Plunderer's Instinct",
+        "imageName": "PlunderersInstinct"
+    },
+    {
+        "target": "survivor",
+        "name": "Poised",
+        "imageName": "Poised"
+    },
+    {
+        "target": "survivor",
+        "name": "Potential Energy",
+        "imageName": "PotentialEnergy"
+    },
+    {
+        "target": "survivor",
+        "name": "Power Struggle",
+        "imageName": "PowerStruggle"
+    },
+    {
+        "target": "survivor",
+        "name": "Premonition",
+        "imageName": "Premonition"
+    },
+    {
+        "target": "survivor",
+        "name": "Prove Thyself",
+        "imageName": "ProveThyself"
+    },
+    {
+        "target": "survivor",
+        "name": "Quick And Quiet",
+        "imageName": "QuickAndQuiet"
+    },
+    {
+        "target": "survivor",
+        "name": "Quick Gambit",
+        "imageName": "QuickGambit"
+    },
+    {
+        "target": "survivor",
+        "name": "Reactive Healing",
+        "imageName": "ReactiveHealing"
+    },
+    {
+        "target": "survivor",
+        "name": "Reassurance",
+        "imageName": "Reassurance"
+    },
+    {
+        "target": "survivor",
+        "name": "Red Herring",
+        "imageName": "RedHerring"
+    },
+    {
+        "target": "survivor",
+        "name": "Renewal",
+        "imageName": "Renewal"
+    },
+    {
+        "target": "survivor",
+        "name": "Repressed Alliance",
+        "imageName": "RepressedAlliance"
+    },
+    {
+        "target": "survivor",
+        "name": "Residual Manifest",
+        "imageName": "ResidualManifest"
+    },
+    {
+        "target": "survivor",
+        "name": "Resilience",
+        "imageName": "Resilience"
+    },
+    {
+        "target": "survivor",
+        "name": "Resurgence",
+        "imageName": "Resurgence"
+    },
+    {
+        "target": "survivor",
+        "name": "Rookie Spirit",
+        "imageName": "RookieSpirit"
+    },
+    {
+        "target": "survivor",
+        "name": "Saboteur",
+        "imageName": "Saboteur"
+    },
+    {
+        "target": "survivor",
+        "name": "Self-Aware",
+        "imageName": "Self-Aware"
+    },
+    {
+        "target": "survivor",
+        "name": "Self-Care",
+        "imageName": "SelfCare"
+    },
+    {
+        "target": "survivor",
+        "name": "Self-Preservation",
+        "imageName": "Self-Preservation"
+    },
+    {
+        "target": "survivor",
+        "name": "Situational Awareness",
+        "imageName": "SituationalAwareness"
+    },
+    {
+        "target": "survivor",
+        "name": "Slippery Meat",
+        "imageName": "SlipperyMeat"
+    },
+    {
+        "target": "survivor",
+        "name": "Small Game",
+        "imageName": "SmallGame"
+    },
+    {
+        "target": "survivor",
+        "name": "Smash Hit",
+        "imageName": "SmashHit"
+    },
+    {
+        "target": "survivor",
+        "name": "Sole Survivor",
+        "imageName": "SoleSurvivor"
+    },
+    {
+        "target": "survivor",
+        "name": "Solidarity",
+        "imageName": "Solidarity"
+    },
+    {
+        "target": "survivor",
+        "name": "Soul Guard",
+        "imageName": "SoulGuard"
+    },
+    {
+        "target": "survivor",
+        "name": "Spine Chill",
+        "imageName": "SpineChill"
+    },
+    {
+        "target": "survivor",
+        "name": "Sprint Burst",
+        "imageName": "SprintBurst"
+    },
+    {
+        "target": "survivor",
+        "name": "Stake Out",
+        "imageName": "StakeOut"
+    },
+    {
+        "target": "survivor",
+        "name": "Streetwise",
+        "imageName": "Streetwise"
+    },
+    {
+        "target": "survivor",
+        "name": "Technician",
+        "imageName": "Technician"
+    },
+    {
+        "target": "survivor",
+        "name": "Tenacity",
+        "imageName": "Tenacity"
+    },
+    {
+        "target": "survivor",
+        "name": "This Is Not Happening",
+        "imageName": "ThisIsNotHappening"
+    },
+    {
+        "target": "survivor",
+        "name": "Unbreakable",
+        "imageName": "Unbreakable"
+    },
+    {
+        "target": "survivor",
+        "name": "Up The Ante",
+        "imageName": "UpTheAnte"
+    },
+    {
+        "target": "survivor",
+        "name": "Urban Evasion",
+        "imageName": "UrbanEvasion"
+    },
+    {
+        "target": "survivor",
+        "name": "Vigil",
+        "imageName": "Vigil"
+    },
+    {
+        "target": "survivor",
+        "name": "Visionary",
+        "imageName": "Visionary"
+    },
+    {
+        "target": "survivor",
+        "name": "Wake Up",
+        "imageName": "WakeUp"
+    },
+    {
+        "target": "survivor",
+        "name": "We'll Make It",
+        "imageName": "WellMakeIt"
+    },
+    {
+        "target": "survivor",
+        "name": "We're Gonna Live Forever",
+        "imageName": "WereGonnaLiveForever"
+    },
+    {
+        "target": "survivor",
+        "name": "Windows of Opportunity",
+        "imageName": "WindowsOfOpportunity"
+    },
+    {
+        "target": "survivor",
+        "name": "Wiretap",
+        "imageName": "Wiretap"
+    },
 
     {
         "target": "killer",
@@ -27,17 +587,512 @@
     },
     {
         "target": "killer",
+        "name": "Awakened Awareness",
+        "imageName": "AwakenedAwareness"
+    },
+    {
+        "target": "killer",
         "name": "Bamboozle",
         "imageName": "Bamboozle"
     },
     {
         "target": "killer",
-        "name": "BarbecueAndChili",
-        "imageName": "BarbecueAndChili"
+        "name": "Barbecue And Chilli",
+        "imageName": "BarbecueAndChilli"
     },
     {
         "target": "killer",
-        "name": "BeastOfPrey",
+        "name": "Beast Of Prey",
         "imageName": "BeastOfPrey"
+    },
+    {
+        "target": "killer",
+        "name": "Bitter Murmur",
+        "imageName": "BitterMurmur"
+    },
+    {
+        "target": "killer",
+        "name": "Blood Echo",
+        "imageName": "BloodEcho"
+    },
+    {
+        "target": "killer",
+        "name": "Bloodhound",
+        "imageName": "Bloodhound"
+    },
+    {
+        "target": "killer",
+        "name": "Blood Warden",
+        "imageName": "BloodWarden"
+    },
+    {
+        "target": "killer",
+        "name": "Brutal Strength",
+        "imageName": "BrutalStrength"
+    },
+    {
+        "target": "killer",
+        "name": "Call Of Brine",
+        "imageName": "CallOfBrine"
+    },
+    {
+        "target": "killer",
+        "name": "Claustrophobia",
+        "imageName": "Claustrophobia"
+    },
+    {
+        "target": "killer",
+        "name": "Corrupt Intervention",
+        "imageName": "CorruptIntervention"
+    },
+    {
+        "target": "killer",
+        "name": "Coulrophobia",
+        "imageName": "Coulrophobia"
+    },
+    {
+        "target": "killer",
+        "name": "Coup de Grâce",
+        "imageName": "CoupDeGrace"
+    },
+    {
+        "target": "killer",
+        "name": "Dark Devotion",
+        "imageName": "DarkDevotion"
+    },
+    {
+        "target": "killer",
+        "name": "Darkness Revealed",
+        "imageName": "DarknessRevealed"
+    },
+    {
+        "target": "killer",
+        "name": "Deadlock",
+        "imageName": "Deadlock"
+    },
+    {
+        "target": "killer",
+        "name": "Dead Man's Switch",
+        "imageName": "DeadMansSwitch"
+    },
+    {
+        "target": "killer",
+        "name": "Deathbound",
+        "imageName": "Deathbound"
+    },
+    {
+        "target": "killer",
+        "name": "Deerstalker",
+        "imageName": "Deerstalker"
+    },
+    {
+        "target": "killer",
+        "name": "Discordance",
+        "imageName": "Discordance"
+    },
+    {
+        "target": "killer",
+        "name": "Dissolution",
+        "imageName": "Dissolution"
+    },
+    {
+        "target": "killer",
+        "name": "Distressing",
+        "imageName": "Distressing"
+    },
+    {
+        "target": "killer",
+        "name": "Dragon's Grip",
+        "imageName": "DragonsGrip"
+    },
+    {
+        "target": "killer",
+        "name": "Dying Light",
+        "imageName": "DyingLight"
+    },
+    {
+        "target": "killer",
+        "name": "Enduring",
+        "imageName": "Enduring"
+    },
+    {
+        "target": "killer",
+        "name": "Eruption",
+        "imageName": "Eruption"
+    },
+    {
+        "target": "killer",
+        "name": "Fire Up",
+        "imageName": "FireUp"
+    },
+    {
+        "target": "killer",
+        "name": "Fearmonger",
+        "imageName": "Fearmonger"
+    },
+    {
+        "target": "killer",
+        "name": "Forced Penance",
+        "imageName": "ForcedPenance"
+    },
+    {
+        "target": "killer",
+        "name": "Franklin's Demise",
+        "imageName": "FranklinsDemise"
+    },
+    {
+        "target": "killer",
+        "name": "Furtive Chase",
+        "imageName": "FurtiveChase"
+    },
+    {
+        "target": "killer",
+        "name": "Gearhead",
+        "imageName": "Gearhead"
+    },
+    {
+        "target": "killer",
+        "name": "Grim Embrace",
+        "imageName": "GrimEmbrace"
+    },
+    {
+        "target": "killer",
+        "name": "Hangman's Trick",
+        "imageName": "HangmansTrick"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Blood Favour",
+        "imageName": "HexBloodFavour"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Crowd Control",
+        "imageName": "HexCrowdControl"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Devour Hope",
+        "imageName": "HexDevourHope"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Face The Darkness",
+        "imageName": "HexFaceTheDarkness"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Haunted Ground",
+        "imageName": "HexHauntedGround"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Huntress Lullaby",
+        "imageName": "HexHuntressLullaby"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: No One Escapes Death",
+        "imageName": "HexNoOneEscapesDeath"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Pentimento",
+        "imageName": "HexPentimento"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Plaything",
+        "imageName": "HexPlaything"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Retribution",
+        "imageName": "HexRetribution"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Ruin",
+        "imageName": "HexRuin"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: The Third Seal",
+        "imageName": "HexTheThirdSeal"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Thrill Of The Hunt",
+        "imageName": "HexThrillOfTheHunt"
+    },
+    {
+        "target": "killer",
+        "name": "Hex: Undying",
+        "imageName": "HexUndying"
+    },
+    {
+        "target": "killer",
+        "name": "Hoarder",
+        "imageName": "Hoarder"
+    },
+    {
+        "target": "killer",
+        "name": "Hubris",
+        "imageName": "Hubris"
+    },
+    {
+        "target": "killer",
+        "name": "Hysteria",
+        "imageName": "Hysteria"
+    },
+    {
+        "target": "killer",
+        "name": "I'm All Ears",
+        "imageName": "ImAllEars"
+    },
+    {
+        "target": "killer",
+        "name": "Infectious Fright",
+        "imageName": "InfectiousFright"
+    },
+    {
+        "target": "killer",
+        "name": "Insidious",
+        "imageName": "Insidious"
+    },
+    {
+        "target": "killer",
+        "name": "Iron Grasp",
+        "imageName": "IronGrasp"
+    },
+    {
+        "target": "killer",
+        "name": "Iron Maiden",
+        "imageName": "IronMaiden"
+    },
+    {
+        "target": "killer",
+        "name": "Jolt",
+        "imageName": "Jolt"
+    },
+    {
+        "target": "killer",
+        "name": "Knock Out",
+        "imageName": "KnockOut"
+    },
+    {
+        "target": "killer",
+        "name": "Lethal Pursuer",
+        "imageName": "LethalPursuer"
+    },
+    {
+        "target": "killer",
+        "name": "Lightborn",
+        "imageName": "Lightborn"
+    },
+    {
+        "target": "killer",
+        "name": "Mad Grit",
+        "imageName": "MadGrit"
+    },
+    {
+        "target": "killer",
+        "name": "Make Your Choice",
+        "imageName": "MakeYourChoice"
+    },
+    {
+        "target": "killer",
+        "name": "Merciless Storm",
+        "imageName": "MercilessStorm"
+    },
+    {
+        "target": "killer",
+        "name": "Monitor And Abuse",
+        "imageName": "MonitorAndAbuse"
+    },
+    {
+        "target": "killer",
+        "name": "Nemesis",
+        "imageName": "Nemesis"
+    },
+    {
+        "target": "killer",
+        "name": "Nowhere To Hide",
+        "imageName": "NowhereToHide"
+    },
+    {
+        "target": "killer",
+        "name": "No Way Out",
+        "imageName": "NoWayOut"
+    },
+    {
+        "target": "killer",
+        "name": "Nurse's Calling",
+        "imageName": "NursesCalling"
+    },
+    {
+        "target": "killer",
+        "name": "Oppression",
+        "imageName": "Oppression"
+    },
+    {
+        "target": "killer",
+        "name": "Overcharge",
+        "imageName": "Overcharge"
+    },
+    {
+        "target": "killer",
+        "name": "Overwhelming Presence",
+        "imageName": "OverwhelmingPresence"
+    },
+    {
+        "target": "killer",
+        "name": "Play With Your Food",
+        "imageName": "PlayWithYourFood"
+    },
+    {
+        "target": "killer",
+        "name": "Pop Goes The Weasel",
+        "imageName": "PopGoesTheWeasel"
+    },
+    {
+        "target": "killer",
+        "name": "Predator",
+        "imageName": "Predator"
+    },
+    {
+        "target": "killer",
+        "name": "Rancor",
+        "imageName": "Rancor"
+    },
+    {
+        "target": "killer",
+        "name": "Remember Me",
+        "imageName": "RememberMe"
+    },
+    {
+        "target": "killer",
+        "name": "Save The Best For Last",
+        "imageName": "SaveTheBestForLast"
+    },
+    {
+        "target": "killer",
+        "name": "Scourge Hook: Gift Of Pain",
+        "imageName": "ScourgeHookGiftOfPain"
+    },
+    {
+        "target": "killer",
+        "name": "Scourge Hook: Floods Of Rage",
+        "imageName": "ScourgeHookFloodsOfRage"
+    },
+    {
+        "target": "killer",
+        "name": "Scourge Hook: Monstrous Shrine",
+        "imageName": "ScourgeHookMonstrousShrine"
+    },
+    {
+        "target": "killer",
+        "name": "Scourge Hook: Pain Resonance",
+        "imageName": "ScourgeHookPainResonance"
+    },
+    {
+        "target": "killer",
+        "name": "Starstruck",
+        "imageName": "Starstruck"
+    },
+    {
+        "target": "killer",
+        "name": "Septic Touch",
+        "imageName": "SepticTouch"
+    },
+    {
+        "target": "killer",
+        "name": "Shadowborn",
+        "imageName": "Shadowborn"
+    },
+    {
+        "target": "killer",
+        "name": "Shattered Hope",
+        "imageName": "ShatteredHope"
+    },
+    {
+        "target": "killer",
+        "name": "Sloppy Butcher",
+        "imageName": "SloppyButcher"
+    },
+    {
+        "target": "killer",
+        "name": "Spies From The Shadows",
+        "imageName": "SpiesFromTheShadows"
+    },
+    {
+        "target": "killer",
+        "name": "Spirit Fury",
+        "imageName": "SpiritFury"
+    },
+    {
+        "target": "killer",
+        "name": "Stridor",
+        "imageName": "Stridor"
+    },
+    {
+        "target": "killer",
+        "name": "Superior Anatomy",
+        "imageName": "SuperiorAnatomy"
+    },
+    {
+        "target": "killer",
+        "name": "Surveillance",
+        "imageName": "Surveillance"
+    },
+    {
+        "target": "killer",
+        "name": "Terminus",
+        "imageName": "Terminus"
+    },
+    {
+        "target": "killer",
+        "name": "Territorial Imperative",
+        "imageName": "TerritorialImperative"
+    },
+    {
+        "target": "killer",
+        "name": "Thanatophobia",
+        "imageName": "Thanatophobia"
+    },
+    {
+        "target": "killer",
+        "name": "Thrilling Tremors",
+        "imageName": "ThrillingTremors"
+    },
+    {
+        "target": "killer",
+        "name": "Tinkerer",
+        "imageName": "Tinkerer"
+    },
+    {
+        "target": "killer",
+        "name": "Trail Of Torment",
+        "imageName": "TrailOfTorment"
+    },
+    {
+        "target": "killer",
+        "name": "Unnerving Presence",
+        "imageName": "UnnervingPresence"
+    },
+    {
+        "target": "killer",
+        "name": "Unrelenting",
+        "imageName": "Unrelenting"
+    },
+    {
+        "target": "killer",
+        "name": "Whispers",
+        "imageName": "Whispers"
+    },
+    {
+        "target": "killer",
+        "name": "Zanshin Tactics",
+        "imageName": "ZanshinTactics"
     }
 ]
